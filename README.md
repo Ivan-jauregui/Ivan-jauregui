@@ -2,13 +2,14 @@
 
 
 
-<h1 align="center">Hi, I'm Ivan Jauregui!</h1> 
+<h1 align="center">Hi, I'm Ivan Jauregui!</h1> <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
+
 <br/>
 
 <!--Animation-->
 <p align="center">
   <a href="https://github.com/ivan-jauregui">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+Java+%2B+Spring+Boot;AI+Enthusiast+%7C+Spring+AI+%2B+TensorFlow;Software+Development+Student+at+UTN;Building+Scalable+%26+Intelligent+Solutions&height=40">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=50&lines=Backend+Developer+%7C+Java+%2B+Spring+Boot;AI+Enthusiast+%7C+Spring+AI+%2B+TensorFlow;Software+Development+Student+at+UTN;Building+Scalable+%26+Intelligent+Solutions">
   </a>
 </p>
 

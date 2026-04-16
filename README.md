@@ -2,7 +2,10 @@
 
 
 
-<h1 align="center">Hi, I'm Ivan Jauregui!</h1> <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
+<div>
+	<h1 align="center">Hi, I'm Ivan Jauregui!</h1>
+	<picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"</picture>
+	</div>
 
 <br/>
 

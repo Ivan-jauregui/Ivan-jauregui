@@ -2,8 +2,7 @@
 
 
 
-<h1 align="center">Hi, I'm Ivan Jauregui!</h1> <img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" />
-
+<h1 align="center">Hi, I'm Ivan Jauregui!</h1> 
 <br/>
 
 <!--Animation-->

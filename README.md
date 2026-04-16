@@ -17,15 +17,15 @@
 
 <!--About me-->
 <pre>
-💻 I am a Backend Developer with 3+ years of experience and an AI enthusiast[cite: 3].
+💻 I am a Backend Developer with 3+ years of experience and an AI enthusiast.
 📚 I am pursuing a Degree in Programming at Universidad Tecnológica Nacional (UTN).
-📝 I have a strong interest in AI-Driven Backend Logic and Scalable Architectures[cite: 3, 4].
-🔭 Working on <b>Talentry</b> (AI-powered job matching) and high-performance APIs[cite: 17].
+📝 I have a strong interest in AI-Driven Backend Logic and Scalable Architectures.
+🔭 Working on <b>Talentry</b> (AI-powered job matching) and high-performance API.
 🌱 Learning about <b>Spring AI</b>, <b>TensorFlow</b>, and advanced Cloud Infrastructure.
-🌟 Main languages: <b>Java (Spring Boot)</b>, <b>TypeScript (Angular)</b> , and <b>SQL</b>[cite: 35, 36].
-🚩 Interested in developing intelligent systems that solve complex business challenges[cite: 5].
+🌟 Main languages: <b>Java (Spring Boot)</b>, <b>TypeScript (Angular)</b> , and <b>SQL</b>.
+🚩 Interested in developing intelligent systems that solve complex business challenges.
 🤔 I’m currently open for: <b>Backend</b> or <b>Full Stack</b> opportunities. 
-   Check out <a href="TU_LINK_AQUÍ" target="_blank">MY RESUME.</a>
+   Check out <a href="https://drive.google.com/file/d/1C84vUkt7X0ygB_a6XvR1ZsaUjJ0QhrXG/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 

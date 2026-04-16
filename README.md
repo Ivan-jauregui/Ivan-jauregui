@@ -77,8 +77,12 @@ Languages and Tools🛠:
 Connect with me ♥️:
 </summary>
 <br/>
+	
 <a href="https://www.linkedin.com/in/ivan-jauregui-22z11z10" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ivan-jauregui"/></a>
 
-<a href = "ivanjauregui79@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ivanjauregui79@gmail.com"  /></a>
+<a href="mailto:ivanjauregui79@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
 <br/>
 </details>

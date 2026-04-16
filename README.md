@@ -2,10 +2,10 @@
 
 
 
-<div>
-	<h1 align="center">Hi, I'm Ivan Jauregui!</h1>
-	<picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"</picture>
-	</div>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+  <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="45" alt="about me">
+  <h1 style="margin: 0;">Hi, I'm Ivan Jauregui!</h1>
+</div>
 
 <br/>
 
